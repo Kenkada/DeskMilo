@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python 3.9+"></a>
   <a href="#-bill-of-materials-bom"><img src="https://img.shields.io/badge/hardware-2--DOF%20Pan--Tilt-orange.svg" alt="Hardware: 2-DOF"></a>
 </p>
