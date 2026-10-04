@@ -49,22 +49,22 @@
 
 | Item | Component & Spec | Qty | Cost | Engineering Purpose |
 | :---: | :--- | :---: | :---: | :--- |
-| 1 | **Raspberry Pi 4B (4GB RAM)** | 1 | $55 | Primary embedded computing & vision host |
-| 2 | **SanDisk 64GB Extreme A2 MicroSD Card** | 1 | $14 | Linux OS, OpenCV binaries, and model weights |
-| 3 | **Custom Carrier PCB Fabrication (JLCPCB)** | 5 pcs | $16 | 2-layer custom motherboard + SMD solder stencil |
-| 4 | **PCA9685PW 16-Ch PWM Driver IC + Passives** | 1 | $6 | Discrete I2C servo controller chip & decoupling |
-| 5 | **MP1584EN DC-DC Buck Step-Down Circuit** | 1 set | $7 | IC, 4.7µH power inductor, Schottky diode & caps |
-| 6 | **MAX98357A I2S DAC Audio Amp IC + Filters** | 1 | $5 | Discrete I2S Class-D amplifier IC & ferrite beads |
-| 7 | **INMP441 Omnidirectional MEMS Mic IC** | 1 | $4 | Surface-mount digital microphone transducer |
-| 8 | **Power Filter Array (1000µF Caps, TVS Diodes, MOSFETs)** | 1 set | $6 | Peak servo surge suppression & brownout protection |
-| 9 | **SMD Passives & Connector Pack (0805, Headers, JST)** | 1 set | $8 | Resistor/capacitor reels, screw terminals, headers |
-| 10 | **MG90S Metal-Gear Micro Servos** | 2 | $8 | Raw 2-DOF pan/tilt actuators |
-| 11 | **Raspberry Pi Camera Module v2 (IMX219 8MP)** | 1 | $18 | Bare camera sensor & FPC ribbon |
-| 12 | **0.96" Bare I2C OLED Glass Panels (SSD1306)** | 2 | $10 | Bare display panels for expressive digital eyes |
-| 13 | **4Ω 3W 28mm Slim Audio Speaker Transducer** | 1 | $4 | Bare speaker driver for voice feedback |
-| 14 | **5V 4010 DC Brushless Fan & Aluminium Heatsinks** | 1 | $5 | Active thermal management package |
-| 15 | **5V 4A Regulated USB-C Power Adapter** | 1 | $13 | Continuous power delivery for system + servos |
-| 16 | **Mechanical Hardware (PLA Filament, M2/M3 Heat-Set Inserts)** | 1 set | $15 | Custom 3D chassis, joints & threaded brass inserts |
+| 1 | **Raspberry Pi 4B (4GB RAM)** | 1 | $55 | Brain of the system |
+| 2 | **SanDisk 64GB Extreme A2 MicroSD Card** | 1 | $14 | Memory of brain |
+| 3 | **Custom Carrier PCB Fabrication (JLCPCB)** | 5 pcs | $16 | Nervous system |
+| 4 | **PCA9685PW 16-Ch PWM Driver IC + Passives** | 1 | $6 | Motor neurons |
+| 5 | **MP1584EN DC-DC Buck Step-Down Circuit** | 1 set | $7 | handle mood swings|
+| 6 | **MAX98357A I2S DAC Audio Amp IC + Filters** | 1 | $5 | gives voice to bot...umm...pet |
+| 7 | **INMP441 Omnidirectional MEMS Mic IC** | 1 | $4 | ears |
+| 8 | **Power Filter Array (1000µF Caps, TVS Diodes, MOSFETs)** | 1 set | $6 | more neurons... |
+| 9 | **Connector Pack (Headers, JST)** | 1 set | $8 | nerve plug points |
+| 10 | **MG90S Metal-Gear Micro Servos** | 2 | $8 | muscles |
+| 11 | **Raspberry Pi Camera Module v2 (IMX219 8MP)** | 1 | $18 | eyes... |
+| 12 | **0.96" Bare I2C OLED Glass Panels (SSD1306)** | 2 | $10 | umm... infographic/additional mouth?? |
+| 13 | **4Ω 3W 28mm Slim Audio Speaker Transducer** | 1 | $4 | moreee voice |
+| 14 | **5V 4010 DC Brushless Fan & Aluminium Heatsinks** | 1 | $5 | keeping the brain icey cool |
+| 15 | **5V 4A Regulated USB-C Power Adapter** | 1 | $13 | most important powerrrr |
+| 16 | **Mechanical Hardware (PLA Filament, M2/M3 Heat-Set Inserts)** | 1 set | $15 | bodyy  |
 | **Σ** | **Total Estimated Budget** | — | **$194** |  |
 ---
 
