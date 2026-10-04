@@ -18,9 +18,6 @@ A cute lil desktop robot that tracks your face, talks back, and helps you lock i
 | :---: | :---: |
 | ![Front View](assets/front_view.png) | ![Mechanism](assets/side_view.png) |
 
-> 🎥 **[Watch the Working Video Demo Here](https://youtube.com/your-video-link)**  
-> 🌐 **[Project Showcase / Hack Club Page](https://your-project-link.com)**
-
 ---
 
 ## ✨ Features
