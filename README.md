@@ -4,7 +4,7 @@ A cute lil desktop robot that tracks your face, talks back, and helps you lock i
 
 > **Your expressive desktop AI companion that gives you eye contact, talks back, and helps you lock in.**
 
-![DeskMilo Hero Banner](assets/banner.png)
+![DeskMilo Hero Banner](assets/1.jpeg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -12,11 +12,11 @@ A cute lil desktop robot that tracks your face, talks back, and helps you lock i
 
 ---
 
-## 📸 Media & Showcase
-
+## 📸 Inspo Media 
+(https://www.instagram.com/reel/Dchn35SNEEn/?stkn=cjRoMHJqa2syYXoy)
 | Front View | Side / Pan-Tilt Mechanism |
 | :---: | :---: |
-| ![Front View](assets/front_view.png) | ![Mechanism](assets/side_view.png) |
+| ![Front View](assets/2.jpeg) | ![Mechanism](assets/3.jpeg) |
 
 ---
 
