@@ -15,11 +15,10 @@
 
 ## 🚀 What's New
 
-### 🛠️ v0.1 Prototype Release
-- [x] **Initial 2-DOF Rig Assembly:** Built pan-tilt head mechanism for smooth tracking.
-- [x] **Face Tracking V1:** Integrated OpenCV Haar cascade with deadzone smoothing to stop servo jitter.
-- [x] **Active Thermal Circuit:** Added transistor-switched 5V fan to keep the SBC chill during video stream processing.
-- [ ] **Next up:** Voice-activated wake word and connecting Gemini/Ollama for real-time conversational smarts!
+### 🛠️ In v0.1 Prototype Release
+- [ ] **Initial 2-DOF Rig Assembly:** Built pan-tilt head mechanism for smooth tracking.
+- [ ] **Face Tracking V1:** Integrated OpenCV Haar cascade with deadzone smoothing to stop servo jitter.
+- [ ] **Active Thermal Circuit:** Added transistor-switched 5V fan to keep the SBC chill during video stream processing.
 
 ---
 
