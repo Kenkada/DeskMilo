@@ -1,22 +1,26 @@
-# DeskMilo
-A cute lil desktop robot that tracks your face, talks back, and helps you lock in.
 # 🤖 DeskMilo
 
 > **Your expressive desktop AI companion that gives you eye contact, talks back, and helps you lock in.**
 
-![DeskMilo Hero Banner](Assets/1.jpeg)
+<p align="center">
+  <img src="Assets/1.jpeg" alt="DeskMilo Hero Banner" width="450" style="border-radius: 10px;" />
+</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![Hardware: 2--DOF](https://img.shields.io/badge/hardware-2--DOF%20Pan--Tilt-orange.svg)](#bill-of-materials-bom)
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python 3.9+"></a>
+  <a href="#-bill-of-materials-bom"><img src="https://img.shields.io/badge/hardware-2--DOF%20Pan--Tilt-orange.svg" alt="Hardware: 2-DOF"></a>
+</p>
 
 ---
 
-## 📸 Inspo Media 
-(https://www.instagram.com/reel/Dchn35SNEEn/?stkn=cjRoMHJqa2syYXoy)
+## 📸 Media & Inspiration
+
+> 🎬 **[Watch Inspiration Reel on Instagram](https://www.instagram.com/reel/Dchn35SNEEn/?stkn=cjRoMHJqa2syYXoy)**
+
 | Front View | Side / Pan-Tilt Mechanism |
 | :---: | :---: |
-| ![Front View](Assets/2.jpeg) | ![Mechanism](Assets/3.jpeg) |
+| <img src="Assets/2.jpeg" alt="Front View" width="260" /> | <img src="Assets/3.jpeg" alt="Mechanism" width="260" /> |
 
 ---
 
@@ -54,4 +58,4 @@ A cute lil desktop robot that tracks your face, talks back, and helps you lock i
   ├── GPIO 21        ──>  Fan Control via Transistor (Base)
   ├── USB Port 1     ──>  Camera
   ├── USB Port 2     ──>  Speaker
-  ├── 5V & GND       ──>  Power Rails (Use separate 5V rail for servos if jitter occurs)
+  └── 5V & GND       ──>  Power Rails (Use external 5V rail for servos if jitter occurs)
