@@ -3,7 +3,7 @@
 > **Your expressive desktop AI companion that gives you eye contact, talks back, and helps you lock in.**
 
 <p align="center">
-  <img src="Assets/1.jpeg" alt="DeskMilo Hero Banner" width="450" style="border-radius: 10px;" />
+  <img src="Assets/1.jpg" alt="DeskMilo Hero Banner" width="450" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 | Front View | Side / Pan-Tilt Mechanism |
 | :---: | :---: |
-| <img src="Assets/2.jpeg" alt="Front View" width="260" /> | <img src="Assets/3.jpeg" alt="Mechanism" width="260" /> |
+| <img src="Assets/2.jpg" alt="Front View" width="260" /> | <img src="Assets/3.jpg" alt="Mechanism" width="260" /> |
 
 ---
 
