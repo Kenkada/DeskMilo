@@ -45,25 +45,27 @@
 
 | Item | Component | Qty | Approx Cost | Notes / Link |
 | :---: | :--- | :---: | :---: | :--- |
-| 1 | **Raspberry Pi 4B / Zero 2 W** | 1 | ~$35 - $55 | Brain of the robot |
-| 2 | **MG90S / SG90 Micro Servos** | 2 | ~$5 | Pan (X-axis) and Tilt (Y-axis) |
-| 3 | **2-DOF Pan-Tilt Bracket Kit** | 1 | ~$3 | Holds camera & tilt servo |
-| 4 | **USB Web Camera or Pi Camera v2** | 1 | ~$10 - $15 | Face tracking & visual input |
-| 5 | **5V 4010 DC Cooling Fan** | 1 | ~$2 | Keeps CPU cool |
-| 6 | **Mini USB Speaker / I2S MAX98357A**| 1 | ~$5 - $8 | Audio & voice output |
-| 7 | **2N2222 Transistor / MOSFET** | 1 | ~$0.50 | Fan switching circuit |
-| 8 | **5V 3A Power Supply (USB-C)** | 1 | ~$8 | Stable power for Pi & servos |
-| 9 | **3D Printed Enclosure & Base** | 1 set | ~$5 (filament) | [STL Files in /cad](./cad/) |
+## 🛒 Bill of Materials (BOM) — Discrete Circuitry & Fabrication
 
+| Item | Component & Spec | Qty | Cost | Engineering Purpose |
+| :---: | :--- | :---: | :---: | :--- |
+| 1 | **Raspberry Pi 4B (4GB RAM)** | 1 | $55 | Primary embedded computing & vision host |
+| 2 | **SanDisk 64GB Extreme A2 MicroSD Card** | 1 | $14 | Linux OS, OpenCV binaries, and model weights |
+| 3 | **Custom Carrier PCB Fabrication (JLCPCB)** | 5 pcs | $16 | 2-layer custom motherboard + SMD solder stencil |
+| 4 | **PCA9685PW 16-Ch PWM Driver IC + Passives** | 1 | $6 | Discrete I2C servo controller chip & decoupling |
+| 5 | **MP1584EN DC-DC Buck Step-Down Circuit** | 1 set | $7 | IC, 4.7µH power inductor, Schottky diode & caps |
+| 6 | **MAX98357A I2S DAC Audio Amp IC + Filters** | 1 | $5 | Discrete I2S Class-D amplifier IC & ferrite beads |
+| 7 | **INMP441 Omnidirectional MEMS Mic IC** | 1 | $4 | Surface-mount digital microphone transducer |
+| 8 | **Power Filter Array (1000µF Caps, TVS Diodes, MOSFETs)** | 1 set | $6 | Peak servo surge suppression & brownout protection |
+| 9 | **SMD Passives & Connector Pack (0805, Headers, JST)** | 1 set | $8 | Resistor/capacitor reels, screw terminals, headers |
+| 10 | **MG90S Metal-Gear Micro Servos** | 2 | $8 | Raw 2-DOF pan/tilt actuators |
+| 11 | **Raspberry Pi Camera Module v2 (IMX219 8MP)** | 1 | $18 | Bare camera sensor & FPC ribbon |
+| 12 | **0.96" Bare I2C OLED Glass Panels (SSD1306)** | 2 | $10 | Bare display panels for expressive digital eyes |
+| 13 | **4Ω 3W 28mm Slim Audio Speaker Transducer** | 1 | $4 | Bare speaker driver for voice feedback |
+| 14 | **5V 4010 DC Brushless Fan & Aluminium Heatsinks** | 1 | $5 | Active thermal management package |
+| 15 | **5V 4A Regulated USB-C Power Adapter** | 1 | $13 | Continuous power delivery for system + servos |
+| 16 | **Mechanical Hardware (PLA Filament, M2/M3 Heat-Set Inserts)** | 1 set | $15 | Custom 3D chassis, joints & threaded brass inserts |
+| **Σ** | **Total Estimated Budget** | — | **$194** |  |
 ---
 
-## 🔌 Hardware Wiring & Pinout
 
-```text
-[Raspberry Pi / Controller]
-  ├── GPIO 18 (PWM)  ──>  Pan Servo Signal (Orange/Yellow wire)
-  ├── GPIO 19 (PWM)  ──>  Tilt Servo Signal (Orange/Yellow wire)
-  ├── GPIO 21        ──>  Fan Control via Transistor (Base)
-  ├── USB Port 1     ──>  Camera
-  ├── USB Port 2     ──>  Speaker
-  └── 5V & GND       ──>  Power Rails (Use external 5V rail for servos if jitter occurs)
