@@ -53,16 +53,16 @@
 | 2 | **SanDisk 64GB Extreme A2 MicroSD Card** | 1 | $14 | Memory of brain |
 | 3 | **Custom Carrier PCB Fabrication (JLCPCB)** | 5 pcs | $16 | Nervous system |
 | 4 | **PCA9685PW 16-Ch PWM Driver IC + Passives** | 1 | $6 | Motor neurons |
-| 5 | **MP1584EN DC-DC Buck Step-Down Circuit** | 1 set | $7 | handle mood swings|
-| 6 | **MAX98357A I2S DAC Audio Amp IC + Filters** | 1 | $5 | gives voice to bot...umm...pet |
-| 7 | **INMP441 Omnidirectional MEMS Mic IC** | 1 | $4 | ears |
+| 5 | **DC-DC Buck Step-Down Circuit** | 1 set | $7 | handle mood swings|
+| 6 | **I2S DAC Audio Amp IC + Filters** | 1 | $5 | gives voice to bot...umm...pet |
+| 7 | **Omnidirectional MEMS Mic IC** | 1 | $4 | ears |
 | 8 | **Power Filter Array (1000µF Caps, TVS Diodes, MOSFETs)** | 1 set | $6 | more neurons... |
 | 9 | **Connector Pack (Headers, JST)** | 1 set | $8 | nerve plug points |
-| 10 | **MG90S Metal-Gear Micro Servos** | 2 | $8 | muscles |
+| 10 | **Metal-Gear Micro Servos** | 2 | $8 | muscles |
 | 11 | **Raspberry Pi Camera Module v2 (IMX219 8MP)** | 1 | $18 | eyes... |
-| 12 | **0.96" Bare I2C OLED Glass Panels (SSD1306)** | 2 | $10 | umm... infographic/additional mouth?? |
+| 12 | **Bare I2C OLED Glass Panels** | 2 | $10 | umm... infographic/additional mouth?? |
 | 13 | **4Ω 3W 28mm Slim Audio Speaker Transducer** | 1 | $4 | moreee voice |
-| 14 | **5V 4010 DC Brushless Fan & Aluminium Heatsinks** | 1 | $5 | keeping the brain icey cool |
+| 14 | **5V DC Brushless Fan & Aluminium Heatsinks** | 1 | $5 | keeping the brain icey cool |
 | 15 | **5V 4A Regulated USB-C Power Adapter** | 1 | $13 | most important powerrrr |
 | 16 | **Mechanical Hardware (PLA Filament, M2/M3 Heat-Set Inserts)** | 1 set | $15 | bodyy  |
 | **Σ** | **Total Estimated Budget** | — | **$194** |  |
