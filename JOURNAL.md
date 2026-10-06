@@ -16,6 +16,7 @@ I settled on the below mentioned core specs:
 Below is an image having my epic designs(sarcastically)
 
 ![Conceptual Sketch](Assets/draft_sketch.jpeg)
+
 **Total time spent: 3 hours**
 
 # October 5: Rendered some models 
@@ -28,7 +29,7 @@ Ran into a small headache thinking about cable routing through the 2-DOF base, I
 
 | Side View | Back View |
 | :---: | :---: |
-| ![Side View](Assets/2.jpeg) | ![Back View](Assets/3.jpeg) |
+| ![Side View](Assets/2.jpg) | ![Back View](Assets/3.jpg) |
 
 
 **Total time spent: 3 hours**
