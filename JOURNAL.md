@@ -62,4 +62,8 @@ I didn't take any images of me creating a BOM🥲 so I've added the table
 | 16 | **Mechanical Hardware (PLA Filament, M2/M3 Heat-Set Inserts)** | 1 set | $15 |
 | **Σ** | **Total Estimated Budget** | — | **$194** |
 
+<p align="center">
+  <img src="Assets/oct 6.jpeg" alt="Concept Sketch" width="420" style="border-radius: 8px;" />
+</p>
+
 **Total time spent: 3 hours**
