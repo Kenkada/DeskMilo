@@ -26,9 +26,6 @@
 
 > 🎬 **[Watch Inspiration Reel on Instagram](https://www.instagram.com/reel/Dchn35SNEEn/?stkn=cjRoMHJqa2syYXoy)**
 
-| Front View | Side / Pan-Tilt Mechanism |
-| :---: | :---: |
-| <img src="Assets/2.jpg" alt="Front View" width="260" /> | <img src="Assets/3.jpg" alt="Mechanism" width="260" /> |
 
 ---
 
