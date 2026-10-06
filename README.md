@@ -47,7 +47,7 @@
 | :---: | :--- | :---: | :---: | :--- |
 ## 🛒 Bill of Materials (BOM) — Discrete Circuitry & Fabrication
 
-| Item | Component & Spec | Qty | Cost | Engineering Purpose |
+| Item | Component & Spec | Qty | Cost | Purpose |
 | :---: | :--- | :---: | :---: | :--- |
 | 1 | **Raspberry Pi 4B (4GB RAM)** | 1 | $55 | Brain of the system |
 | 2 | **SanDisk 64GB Extreme A2 MicroSD Card** | 1 | $14 | Memory of brain |
