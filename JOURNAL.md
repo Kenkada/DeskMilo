@@ -31,7 +31,7 @@ Ran into a small headache thinking about cable routing through the 2-DOF base, I
 
 | Side View | Back View |
 | :---: | :---: |
-| <img src="Assets/2.jpg" alt="Front View" width="260" /> | <img src="Assets/3.jpg" alt="Mechanism" width="260" /> |
+| <img src="Assets/2.jpg" alt="side View" width="260" /> | <img src="Assets/3.jpg" alt="back view" width="260" /> |
 
 
 **Total time spent: 3 hours**
