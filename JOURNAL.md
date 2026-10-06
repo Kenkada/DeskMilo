@@ -15,10 +15,7 @@ I settled on the below mentioned core specs:
 - An internal cooling fan on the rear so the board stays stable.
 Below is an image having my epic designs(sarcastically)
 
-<p align="center">
-  <img src="Assets/draft_sketch.jpeg" alt="Concept Sketch" width="420" style="border-radius: 8px;" />
-</p>
-
+![Conceptual Sketch](Assets/draft_sketch.jpeg)
 **Total time spent: 3 hours**
 
 # October 5: Rendered some models 
@@ -31,7 +28,7 @@ Ran into a small headache thinking about cable routing through the 2-DOF base, I
 
 | Side View | Back View |
 | :---: | :---: |
-| <img src="Assets/2.jpg" alt="side View" width="260" /> | <img src="Assets/3.jpg" alt="back view" width="260" /> |
+| ![Side View](Assets/2.jpeg) | ![Back View](Assets/3.jpeg) |
 
 
 **Total time spent: 3 hours**
@@ -62,8 +59,5 @@ I didn't take any images of me creating a BOM🥲 so I've added the table
 | 16 | **Mechanical Hardware (PLA Filament, M2/M3 Heat-Set Inserts)** | 1 set | $15 |
 | **Σ** | **Total Estimated Budget** | — | **$194** |
 
-<p align="center">
-  <img src="Assets/oct 6.jpeg" alt="Concept Sketch" width="420" style="border-radius: 8px;" />
-</p>
-
+![BOM](Assets/oct 6.jpeg)
 **Total time spent: 3 hours**
