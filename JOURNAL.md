@@ -1,7 +1,7 @@
 ---
 title: "DeskMilo"
 author: "Kenkada"
-description: "A cute 3D-printable tabletop robot assistant with 2-DOF face tracking and active cooling"
+description: "A cute 3D-printable tabletop robot assistant that can track your face and see if you are studying or not... haha kidding... It'll play with you"
 created_at: "2026-10-04"
 ---
 
