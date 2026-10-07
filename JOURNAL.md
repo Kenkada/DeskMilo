@@ -62,3 +62,19 @@ I didn't take any images of me creating a BOM🥲 so I've added the table
 
 ![BOM](Assets/oct6.jpeg)
 **Total time spent: 3 hours**
+
+
+# October 7: Did some actual designingg💪 
+Today I made a CAD model of the bot using Solidworks(student version) you know renders made using AI were good but .. it just hits different to make it myself✨
+The model is not yet complete but it's a much better way to visualization the robot's design.
+I made some more changes in the face of the robot as compared to drawn sketch there are fillets at the edges and one of the top edge being more rounded, no particular reason it just felt good to mee 😁
+
+![Designing](Assets/front.png)
+![Designing](Assets/head_front.png)
+![Designing](Assets/head_front2.png)
+![Designing](Assets/head_front3.png)
+![Unassembled](Assets/unassembled.png)
+![TOP](Assets/top.png)
+![Side](Assets/side.png)
+![Back](Assets/back.png)
+**Total time spent: 3.5 hours**
