@@ -77,4 +77,5 @@ I made some more changes in the face of the robot as compared to drawn sketch th
 ![TOP](Assets/top.png)
 ![Side](Assets/side.png)
 ![Back](Assets/back.png)
+NOTE: CAD files are in the STL folder which is in Assets
 **Total time spent: 3.5 hours**
