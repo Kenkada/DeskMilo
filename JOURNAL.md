@@ -79,3 +79,12 @@ I made some more changes in the face of the robot as compared to drawn sketch th
 ![Back](Assets/back.png)
 NOTE: CAD files are in the STL folder which is in Assets
 **Total time spent: 3.5 hours**
+
+
+# October 8: Minor changes 
+I did not get much time to work on the project today. I just modified the link a bit as earlier it looked like a rigid cylinder so now I've added a small protrusion with fillet at the ends just to reduce the sharpness of it.
+It was not that necessary of a change but done to protect the streak 😭
+![Unnecessary Change](Assets/link.png)
+
+**Total time spent: 15mins**
+
